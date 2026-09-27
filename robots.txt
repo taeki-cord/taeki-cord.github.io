@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taeki-cord.github.io/taekidamoa/sitemap.xml
